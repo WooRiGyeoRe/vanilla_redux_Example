@@ -13,6 +13,8 @@
     "parcel-bundler": "^1.12.5"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^2.5.0",
+    "react": "^19.0.0",
     "react-redux": "^9.2.0",
     "redux": "^5.0.1"
   }
